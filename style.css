@@ -1,0 +1,55 @@
+body{
+            background-color: gainsboro;
+        }
+        li{
+            background-color: gainsboro;
+        }
+        h1{
+            color: firebrick;
+            font-size: 100px;
+            background-color: powderblue;
+        }
+        .rude {
+            background-color: gold;
+            color: red;
+        }
+        .dude{
+            background-color: aquamarine;
+            color: magenta;
+        }
+    
+        #idk {
+            background-color: purple;
+            color: coral;
+        }
+        .flash{
+            background-color: silver;
+            color: blue;
+        }
+        .boom{
+            background-color: green;
+            color: brown;
+        }
+
+        a{
+            color:red;
+        }
+        header{
+            color:red;
+            font-size: 40px;
+            font-family: fantasy;
+            text-align: center;
+        }
+          header:hover{
+            color:skyblue;
+        }
+        main{
+            text-align:center
+        }
+        main p{
+            font-size: 40px;
+        }
+        footer{
+            text-align: center;
+        }
+        
